@@ -28,7 +28,10 @@ npm install
 
 Set environment variables:
 
-change .env file with your local environment variables.
+```bash
+cp .env.example .env
+```
+
 
 ## Running Locally
 
